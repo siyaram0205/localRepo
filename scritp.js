@@ -1,0 +1,1 @@
+// apply all js in this page
